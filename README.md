@@ -1,31 +1,8 @@
-<!DOCTYPE html>
+#game
 
-<html>
+##goal
 
-<head>
-	<title>kaboom</title>
-	<meta charset="utf-8">
-	<style>
-		* {
-			margin: 0;
-		}
-		html,
-		body {
-			width: 100%;
-			height: 100%;
-			overflow: hidden;
-		}
-		canvas {
-			display: block;
-		}
-	</style>
-</head>
+Escape the bali and take the gold,and you have 3 lives...highest score is the winner
 
-<body>
-<script src="/dist/helper.js"></script>
-<script src="/dist/game.js"></script>
- 
-</body>
 
-</html>
 
